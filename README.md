@@ -1,3 +1,16 @@
+-------------------------------------------------------------------------------------------------------
+----------------------- Question----------------------
+-------------------------------------------------------------------------------------------------------
+A local search algorithm tries to find the optimal solution by exploring the states in
+the local region. Hill climbing is a local search technique that constantly looks for a
+better solution in its neighborhood.
+1. Implement the Hill Climbing Search Algorithm for solving the 8-puzzle
+2. problem.
+Check the algorithm for the following heuristics:
+a. h1(n) = number of tiles displaced from their destined position.
+b. h2(n) = sum of the Manhattan distance of each tile from the goal
+position.
+
 # 🌄 Hill Climbing Algorithm – AI Search Technique
 
 This repository contains an implementation of the **Hill Climbing algorithm** for solving optimization problems using a local search strategy. This project was developed as part of an AI course assignment focused on heuristic search methods.
